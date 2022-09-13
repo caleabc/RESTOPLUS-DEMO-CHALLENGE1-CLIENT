@@ -1,0 +1,19 @@
+.main-div {
+   text-align: center;
+   margin-top: 4rem;
+}
+
+.application-name {
+    font-weight: 900;
+}
+
+.value {
+    font-size: 4rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.icon {
+    cursor: pointer;
+}
+
